@@ -1,7 +1,7 @@
 public class AppExAbstractClass {
 	
 	public static void main(String[] args) {
-		Diamond d = new Diammond();
+		Diamond d = new Diamond();
 		d.get();
 		
 		Mushroom c = new Mushroom();
